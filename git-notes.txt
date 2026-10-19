@@ -1,2 +1,3 @@
 Git is a version control system.
 Git tracks changes in files.
+Commit saves a version of the project.
