@@ -1,1 +1,2 @@
 git status: check repository status
+git add: prepare files for commit.
